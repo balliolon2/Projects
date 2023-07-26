@@ -10,4 +10,4 @@ My projects for practicing with Kaggle and others.
 - [MNIST](mnist-with-keras-as-a-beginner.ipynb)
 
 ## Data Analytics
-- []()
+- [Google Data Analytics Capstone case 1](Google%20data%20analytics%20Case%201.ipynb)
