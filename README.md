@@ -5,3 +5,4 @@ My projects for practicing with Kaggle and others.
 
 ### Machine Learning
 - [Titanic Survival Prediction](Titanic Survival Prediction/Python/Titanic survival prediction.ipynb)
+- [MNIST](mnist-with-keras-as-a-beginner.ipynb)
